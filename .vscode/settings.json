@@ -1,7 +1,7 @@
 {
   // Visuals
-  "workbench.colorTheme": "Vitesse Dark",
-  "workbench.preferredDarkColorTheme": "Vitesse Dark",
+  "workbench.colorTheme": "Dracula",
+  "workbench.preferredDarkColorTheme": "Dracula",
   "workbench.preferredLightColorTheme": "Vitesse Light",
   "workbench.productIconTheme": "icons-carbon",
   "workbench.iconTheme": "file-icons",
@@ -15,11 +15,11 @@
   "editor.find.addExtraSpaceOnTop": false,
   "editor.guides.bracketPairs": "active",
   "editor.inlineSuggest.enabled": true,
-  "editor.lineNumbers": "interval",
+  "editor.lineNumbers": "on",
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.renderWhitespace": "boundary",
   "editor.suggestSelection": "first",
-  "editor.tabSize": 2,
+  "editor.tabSize": 4, //set tabsize 4 here ,and tabsize 2 in editorconfig
   "editor.unicodeHighlight.invisibleCharacters": false,
   "editor.codeActionsOnSave": {
     "source.fixAll": false,
@@ -105,7 +105,8 @@
     "markdown",
     "json",
     "jsonc",
-    "json5"
+    "json5",
+    "jsx"
   ],
   "github.copilot.enable": {
     "*": true,

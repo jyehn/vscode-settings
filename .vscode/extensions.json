@@ -11,7 +11,7 @@
 
     // themes & icons
     "antfu.icons-carbon",
-    "antfu.theme-vitesse",
+    "dracula-theme.theme-dracula",
     "file-icons.file-icons",
     "sainnhe.gruvbox-material",
 
